@@ -4,7 +4,10 @@
     gap:15px;
 }
 body {
-    background: linear-gradient(black, rgb(68, 0, 255));
+    background: url('https://raw.githubusercontent.com/arancia313/Arancia-3-Network/refs/heads/System/assets/images/new_preview.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     margin: 0;
     padding: 10px;
@@ -32,21 +35,10 @@ h1 {
     color: aliceblue;
 }
 section {
-    background: linear-gradient(rgb(66, 66, 66), rgb(0, 0, 0));
+    background: rgba(0, 0, 0, 0.61);
     padding: 10px;
     border-radius:20px;
 }
 #ishkt {
     width: 900px;
-}
-#software-ishkt {
-    background: url('https://raw.githubusercontent.com/arancia313/Arancia-3-Network/refs/heads/System/assets/images/new_preview.png');
-    background-repeat: no-repeat;
-    width: 2px;
-    height: 2px;
-}
-.section-2 {
-    background: linear-gradient(rgb(66, 66, 66), rgb(0, 0, 0));
-    padding: 10px;
-    border-radius:20px;
 }
