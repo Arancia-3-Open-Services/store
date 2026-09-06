@@ -1,3 +1,8 @@
+.store-header {
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
 body {
     background: linear-gradient(black, rgb(68, 0, 255));
     background-attachment: fixed;
@@ -7,10 +12,27 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+    color: aliceblue;
 }
 footer {
     background-color: linear-gradient(rgb(68, 0, 255), rgb(0, 0, 0));
     align-items: left;
     justify-content: left;
     text-align: left;
+    margin-left: 15px;
+}
+button {
+    color: aliceblue;
+    background: black;
+    border-color: aliceblue;
+    padding: 1px;
+    border-radius: 20px;
+}
+h1 {
+    color: aliceblue;
+}
+section {
+    background: linear-gradient(rgb(68, 0, 255), rgb(0, 0, 0));
+    padding: 10px;
+    border-radius:20px;
 }
