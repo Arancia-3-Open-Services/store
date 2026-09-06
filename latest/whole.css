@@ -1,6 +1,6 @@
 .store-header {
     display:flex;
-    align-items:center;
+    align-items:left;
     gap:15px;
 }
 body {
