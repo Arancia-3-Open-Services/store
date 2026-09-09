@@ -35,6 +35,9 @@ button {
 h1 {
     color: aliceblue;
 }
+p {
+    padding: 0px;
+}
 section {
     background: linear-gradient(rgb(66, 66, 66), rgb(0, 0, 0));
     padding: 10px;
