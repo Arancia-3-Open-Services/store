@@ -1,0 +1,1 @@
+fetch("https://raw.githubusercontent.com/arancia313/Arancia-3-Network/refs/heads/System/net/platform_updates/storemnnetannouncements/updates.txt").then(r=>r.text()).then(t=>document.getElementById('announce').innerText=t);
