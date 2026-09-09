@@ -4,6 +4,9 @@
     padding: 15px;
     gap:15px;
 }
+.splash-screen > * {
+    max-width: 80%;
+  }
 body {
     background: linear-gradient(black, rgb(68, 0, 255));
     background-attachment: fixed;
