@@ -15,4 +15,4 @@ document.querySelector('#ishkts').addEventListener('click', () => {
     location.href="https://arancia-3-open-services.github.io/store/incredibox_smart_hub_kuh_treatment";
 });
 // Don't think about this.
-document.getElementById('ishkt').src="https://raw.githubusercontent.com/arancia313/Arancia-3-Network/refs/heads/System/assets/images/new_preview.png";
+document.getElementById('ishkt').src="https://raw.githubusercontent.com/arancia313/Arancia-3-Network/refs/heads/System/assets/images/ishkt2_new_preview.png";
