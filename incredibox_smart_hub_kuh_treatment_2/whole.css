@@ -1,7 +1,7 @@
 .store-header {
     display:flex;
     align-items:left;
-    background: linear-gradient(black, rgb(37, 37, 37));
+    background: linear-gradient(rgb(47, 0, 0), rgb(0, 0, 47));
     padding: 15px;
     gap:15px;
 }
